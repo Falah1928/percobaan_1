@@ -11,4 +11,7 @@ informatic class hmpi
 - flaks
 - laravale
 - mysql
+- java
+- c++
+
 
